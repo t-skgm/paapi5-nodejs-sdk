@@ -8,6 +8,7 @@
     "email": "",
     "url": "https://webservices.amazon.com/paapi5/documentation/index.html"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "homepage": "https://github.com/amzn/paapi5-nodejs-sdk",
   "license": "Apache-2.0",
   "repository": {
